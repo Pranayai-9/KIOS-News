@@ -1,0 +1,153 @@
+{
+  "AI": [
+    {
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/feed.xml",
+      "category": "AI"
+    },
+    {
+      "name": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/feed/",
+      "category": "AI"
+    },
+    {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "AI"
+    },
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/feed/",
+      "category": "AI"
+    }
+  ],
+  "Healthcare": [
+    {
+      "name": "WHO News",
+      "url": "https://www.who.int/feeds/entity/mediacentre/news/en/rss.xml",
+      "category": "Healthcare"
+    },
+    {
+      "name": "Nature Medicine",
+      "url": "https://www.nature.com/nm.rss",
+      "category": "Healthcare"
+    },
+    {
+      "name": "MedTech Dive",
+      "url": "https://www.medtechdive.com/feeds/news/",
+      "category": "Healthcare"
+    },
+    {
+      "name": "FDA Newsroom",
+      "url": "https://www.fda.gov/about-fda/contact-fda/rss-feeds/press-announcements",
+      "category": "Healthcare"
+    }
+  ],
+  "Cybersecurity": [
+    {
+      "name": "The Hacker News",
+      "url": "https://feeds.feedburner.com/TheHackersNews",
+      "category": "Cybersecurity"
+    },
+    {
+      "name": "CISA Newsroom",
+      "url": "https://www.cisa.gov/news.xml",
+      "category": "Cybersecurity"
+    },
+    {
+      "name": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/feed/",
+      "category": "Cybersecurity"
+    }
+  ],
+  "Finance": [
+    {
+      "name": "Reuters Markets",
+      "url": "https://feeds.reuters.com/reuters/marketsNews",
+      "category": "Finance"
+    },
+    {
+      "name": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/feeds/markets/rss",
+      "category": "Finance"
+    },
+    {
+      "name": "RBI Press Releases",
+      "url": "https://www.rbi.org.in/rss/PressRelease.xml",
+      "category": "Finance"
+    },
+    {
+      "name": "SEBI Updates",
+      "url": "https://www.sebi.gov.in/sebirss.xml",
+      "category": "Finance"
+    }
+  ],
+  "Science": [
+    {
+      "name": "Nature",
+      "url": "https://www.nature.com/nature.rss",
+      "category": "Science"
+    },
+    {
+      "name": "Science Magazine",
+      "url": "https://www.science.org/rss/news_current.xml",
+      "category": "Science"
+    },
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "category": "Science"
+    }
+  ],
+  "Politics": [
+    {
+      "name": "Reuters World",
+      "url": "https://feeds.reuters.com/Reuters/worldNews",
+      "category": "Politics"
+    },
+    {
+      "name": "BBC Politics",
+      "url": "http://feeds.bbci.co.uk/news/politics/rss.xml",
+      "category": "Politics"
+    },
+    {
+      "name": "AP News Politics",
+      "url": "https://apnews.com/rss/apf-politics",
+      "category": "Politics"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "ESPN Soccer",
+      "url": "https://www.espn.com/espn/rss/soccer/news",
+      "category": "Sports"
+    },
+    {
+      "name": "Olympics News",
+      "url": "https://olympics.com/en/news/rss",
+      "category": "Sports"
+    },
+    {
+      "name": "FIFA News",
+      "url": "https://www.fifa.com/rss",
+      "category": "Sports"
+    }
+  ],
+  "World": [
+    {
+      "name": "BBC World",
+      "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "category": "World"
+    },
+    {
+      "name": "Reuters World",
+      "url": "https://feeds.reuters.com/Reuters/worldNews",
+      "category": "World"
+    },
+    {
+      "name": "AP World",
+      "url": "https://apnews.com/rss/apf-intlnews",
+      "category": "World"
+    }
+  ]
+}
